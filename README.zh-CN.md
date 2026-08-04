@@ -4,7 +4,7 @@
 
 > **让视频创作回归内容和创意，将工具和复杂性交给 Agent。**
 
-`ux-video` 是一个可被任意 AI Agent 装载的端到端视频创作 skill：驱动一套完全私有化的生成栈，
+`uxvideo` 是一个可被任意 AI Agent 装载的端到端视频创作 skill：驱动一套完全私有化的生成栈，
 把一个项目从创意一路做到成片 —— 覆盖内容策划、分镜头创建、视频生成、配音、配乐的全过程。
 
 > 🏆 本项目源自我们入围 **NVIDIA DGX Spark 黑客松大赛决赛** 的项目。
@@ -24,7 +24,7 @@
 
 ## Demo
 
-用 `ux-video` skill 生成的短视频示例（点击封面跳转 B 站播放）：
+用 `uxvideo` skill 生成的短视频示例（点击封面跳转 B 站播放）：
 
 <table><tr>
 <td align="center" width="33%"><a href="https://www.bilibili.com/video/BV1NHgk6sEuk"><img src="assets/demo/shaolin_soccer_cover.png" width="220" alt="少林女足"><br>▶ 少林女足</a></td>
@@ -34,6 +34,6 @@
 
 ## 快速上手
 
-`ux-video` 由装载并编排它的 Agent 平台 **UltraXBot** 运行。
+`uxvideo` 由装载并编排它的 Agent 平台 **UltraXBot** 运行。
 
 **[下载 UltraXBot · 了解更多 →](https://agent.ultraxbot.com/#/)**
