@@ -37,3 +37,7 @@
 `uxvideo` 由装载并编排它的 Agent 平台 **UltraXBot** 运行。
 
 **[下载 UltraXBot · 了解更多 →](https://agent.ultraxbot.com/#/)**
+
+## 许可证
+
+本项目基于 [Apache License 2.0](LICENSE) 授权。
